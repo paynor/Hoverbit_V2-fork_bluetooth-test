@@ -22,7 +22,9 @@ enum list_servo {
 
 
 /**
- *  
+ * This is a fork by PAYNOR of the extension described in the lines below.
+ * The only modification done is the removal of the radio dependancy and addition of the bluetooth dependancy in the pxy.json file.
+ *
  * Extension written by Julien Launay julien.launay@laposte.net and MakeKit, henning@makekit.no
  * For making a hovercraft with the multi:bit control board by MakeKit, www.makekit.no
  * 
